@@ -30,7 +30,7 @@ function recuperarDataStorage() {
 
 
 /* -------------------------------------------------------------------------- */
-/*                [8] FUNCION: Renerizamos la info en pantalla                */
+/*                [8] FUNCION: Renderizamos la info en pantalla               */
 /* -------------------------------------------------------------------------- */
 function renderizarElementos(objeto) {
     // capturamos los nodos
