@@ -45,7 +45,7 @@ function renderizarElementos(objeto) {
 
 /* ----------------------------- MESA DE TRABAJO ---------------------------- */
 /* -------------------------------------------------------------------------- */
-/*                [9] FUNCION: Formulario completado con éxito                */
+/*                     [9] FUNCION: Boton de cerrar sesion                    */
 /* -------------------------------------------------------------------------- */
 // Ahora vamos a crear elementos en el DOM dinamicamente y le asignaremos a esos elementos la escucha de eventos.
 // ☝ La funcion debe ser ejecutada al final del evento Load.
